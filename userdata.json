@@ -28,5 +28,11 @@
         "key": "Jagannath@123",
         "expirydate": "28-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ed49f38d10020a53",
+        "key": "Kanhu@123",
+        "expirydate": "28-11-2025",
+        "Allowoffline": false
     }
 ]
