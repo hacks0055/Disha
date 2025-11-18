@@ -5,12 +5,6 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-    {
-        "device_id": "7efc79ac18980bcb666",
-        "key": "Note7@123",
-        "expirydate": "15-12-2026",
-        "Allowoffline": false
-    },
         {
         "device_id": "47675f9c722e5d61",
         "key": "Kali@123",
