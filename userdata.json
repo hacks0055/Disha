@@ -1,5 +1,10 @@
 [
-    
+    {
+        "device_id": "038365585263a2f9",
+        "key": "Hunk@123",
+        "expirydate": "27-11-2025",
+        "Allowoffline": false
+        },
         {
         "device_id": "47675f9c722e5d61",
         "key": "Kali@123",
