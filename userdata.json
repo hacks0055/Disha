@@ -3,7 +3,7 @@
         "device_id": "038365585263a2f9",
         "key": "Hunk@123",
         "expirydate": "27-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
         },
         {
         "device_id": "47675f9c722e5d61",
@@ -15,13 +15,13 @@
         "device_id": "5bfd5503087400c0",
         "key": "Santosh@123",
         "expirydate": "27-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
         },
     {
         "device_id": "d38fb5803ec9ef9f",
         "key": "Jagannath@123",
         "expirydate": "28-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "667e5346411ca137",
