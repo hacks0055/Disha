@@ -28,5 +28,11 @@
         "key": "Kanhu@123",
         "expirydate": "18-01-2026",
         "Allowoffline": true
+    } ,
+    {
+        "device_id": "038365585263a2f9",
+        "key": "Secure@123",
+        "expirydate": "17-11-2025",
+        "Allowoffline": true
     }
 ]
