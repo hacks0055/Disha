@@ -1,11 +1,11 @@
 [
-    {
-        "device_id": "038365585263a2f9",
-        "key": "Hunk@123",
-        "expirydate": "27-12-2025",
-        "Allowoffline": true
-        },
         {
+        "device_id": "a39f52ed2cb90189",
+        "key": "Rahul@123",
+        "expirydate": "18-12-2028",
+        "Allowoffline": true
+    },
+    {
         "device_id": "47675f9c722e5d61",
         "key": "Kali@123",
         "expirydate": "15-12-2026",
@@ -27,12 +27,6 @@
         "device_id": "667e5346411ca137",
         "key": "Kanhu@123",
         "expirydate": "18-01-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "a39f52ed2cb90189",
-        "key": "Rahul@123",
-        "expirydate": "18-12-2028",
         "Allowoffline": true
     }
 ]
