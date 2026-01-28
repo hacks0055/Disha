@@ -12,15 +12,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "651c54bf25f4b5d9",
-        "key": "Dinesh@123",
-        "expirydate": "30-01-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "21b31e2fd0da5cf1",
-        "key": "Abhinas@123",
-        "expirydate": "30-01-2026",
+        "device_id": "13c26cf6ab1ff93f",
+        "key": "Siba@123",
+        "expirydate": "04-02-2028",
         "Allowoffline": true
     },
     {
@@ -57,12 +51,6 @@
         "device_id": "e2f8ed984ba03b2d",
         "key": "Dillip@123",
         "expirydate": "27-01-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "13c26cf6ab1ff93f",
-        "key": "Siba@123",
-        "expirydate": "04-02-2028",
         "Allowoffline": true
     }
    
