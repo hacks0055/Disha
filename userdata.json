@@ -53,6 +53,12 @@
         "key": "Pabitra@123",
         "expirydate": "23-11-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "675b2514ef38cd9a",
+        "key": "Disha@1234",
+        "expirydate": "23-04-2029",
+        "Allowoffline": true
     }
    
 ]
